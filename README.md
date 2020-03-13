@@ -1,2 +1,2 @@
 # Android AspectSample
-a repository for android projects
+android AspectJ示例
